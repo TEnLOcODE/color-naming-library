@@ -1,4 +1,4 @@
-// https://github.com/evansque/coloraze
+
 const colors = [
   { name: 'Abbey', hex: '#4C4F56', rgb: { r: 76, g: 79, b: 86 } },
   { name: 'Acadia', hex: '#1B1404', rgb: { r: 27, g: 20, b: 4 } },
